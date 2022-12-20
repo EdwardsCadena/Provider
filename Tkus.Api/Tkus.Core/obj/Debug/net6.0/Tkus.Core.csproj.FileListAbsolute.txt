@@ -1,0 +1,12 @@
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\bin\Debug\net6.0\Tkus.Core.deps.json
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\bin\Debug\net6.0\Tkus.Core.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\bin\Debug\net6.0\Tkus.Core.pdb
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.csproj.AssemblyReference.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.AssemblyInfoInputs.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.AssemblyInfo.cs
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.csproj.CoreCompileInputs.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\refint\Tkus.Core.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\Tkus.Core.pdb
+F:\Repositories\Provider\Tkus.Api\Tkus.Core\obj\Debug\net6.0\ref\Tkus.Core.dll

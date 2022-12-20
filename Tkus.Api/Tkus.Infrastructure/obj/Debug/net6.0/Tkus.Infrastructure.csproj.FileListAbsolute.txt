@@ -1,0 +1,17 @@
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Infrastructure.deps.json
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Infrastructure.runtimeconfig.json
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Infrastructure.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Infrastructure.pdb
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Core.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\bin\Debug\net6.0\Tkus.Core.pdb
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.csproj.AssemblyReference.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.AssemblyInfoInputs.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.AssemblyInfo.cs
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.csproj.CopyComplete
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\refint\Tkus.Infrastructure.dll
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.pdb
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\Tkus.Infrastructure.genruntimeconfig.cache
+F:\Repositories\Provider\Tkus.Api\Tkus.Infrastructure\obj\Debug\net6.0\ref\Tkus.Infrastructure.dll
